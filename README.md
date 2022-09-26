@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TamirKristina
-- 👀 I’m interested in musical theatre, aviation, roller skating, and theme parks.
 - 🌱 I’m currently learning Python & Javascript for the first time!
 - 💞️ I’m looking for feedback on my code and project ideas for uber beginning coders, like myself.
 - 📫 How to reach me: @tamirkristina on Instagram and Twitter.
